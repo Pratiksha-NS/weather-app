@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+}
+
+body{
+   background-image: url("../image/pawel-czerwinski-ERcQ81KaX9g-unsplash.jpg");
+   background-size: cover;
+}
+
+
+.first{
+    width: 100%;
+    max-width: 680px;
+    background: linear-gradient(135deg, #A076F9, #687EFF);
+    color:#fff;
+    margin: 100px auto 0;
+    border-radius: 20px;
+    padding: 40px 35px;
+    background-image: url("../image/valentin-muller-bWtd1ZyEy6w-unsplash.jpg");
+    background-size: cover;
+
+}
+
+.search{
+    text-align: center;
+}
+
+.search input{
+    border: 0;
+    outline: 0;
+    background: #ebfffc;
+    color: #555;
+    padding: 10px 25px;
+    height: 60px;
+    border-radius: 30px;
+    font-size: 18px;
+}
+
+.search button{
+    border: 0;
+    outline: 0;
+    background: #ebfffc;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+ 
+}
+
+.second{
+    margin-top: 20px;
+}
+
+#wicon{
+    width: 100px;
+    height: 100px;
+}
+
+.temp{
+    font-size: 3rem;
+    margin-left: 10px;
+}
+
+#start{
+    margin-top: 30px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
