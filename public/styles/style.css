@@ -7,7 +7,7 @@
 }
 
 body{
-   background-image: url("../image/pawel-czerwinski-ERcQ81KaX9g-unsplash.jpg");
+   background-image: url("../image/valentin-muller-bWtd1ZyEy6w-unsplash.jpg");
    background-size: cover;
 }
 
@@ -15,13 +15,11 @@ body{
 .first{
     width: 100%;
     max-width: 680px;
-    background: linear-gradient(135deg, #A076F9, #687EFF);
+    background: linear-gradient(135deg, rgb(95, 165, 221), #12207d);
     color:#fff;
     margin: 100px auto 0;
     border-radius: 20px;
     padding: 40px 35px;
-    background-image: url("../image/valentin-muller-bWtd1ZyEy6w-unsplash.jpg");
-    background-size: cover;
    
 }
 
@@ -62,7 +60,7 @@ body{
 
 .temp{
     font-size: 3rem;
-    margin-left: 10px;
+    margin-left: 30px;
 }
 
 #start{
