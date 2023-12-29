@@ -7,8 +7,8 @@
 }
 
 body{
-   background-image: url("../image/valentin-muller-bWtd1ZyEy6w-unsplash.jpg");
-   background-size: cover;
+    background-color: #00004d !important;
+    background-image: url("https://www.transparenttextures.com/patterns/swirl.png");   
 }
 
 
